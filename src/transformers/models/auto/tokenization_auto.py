@@ -383,6 +383,7 @@ PRIORITIZE_MAPPING_FOR_MODELS = [
     "pixtral",
     "voxtral",
     "qwen2",
+    "paligemma",
 ]
 
 TOKENIZER_MAPPING = _LazyAutoMapping(CONFIG_MAPPING_NAMES, TOKENIZER_MAPPING_NAMES)
